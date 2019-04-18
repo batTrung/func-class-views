@@ -1,6 +1,6 @@
 # Dùng Function-Based Và Class-Based Views Trong Django
 
-<a target="_blank" href="https://www.djangobat.com/blog/dung-function-based-va-class-based-views-trong-django/"><img src="https://www.djangobat.com/media/posts/2019/04/15/fun-class-views.jpg" alt="" /></a>
+<a target="_blank" href="https://www.djangobat.com/blog/dung-function-based-va-class-based-views-trong-django/"><img src="https://www.djangobat.com/media/posts/2019/04/18/func-class.jpg" alt="" /></a>
 
 
 ## BLOG djangobat
